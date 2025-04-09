@@ -54,6 +54,3 @@ An Android application that allows users to track real-time flight information u
 - These models mirror the API's JSON structure and are used across the app to manage and display flight data.
 
 ---
-
-## Project Structure
-
